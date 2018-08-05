@@ -12,3 +12,8 @@ C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcessTest\obj\Debug\netcoreapp2.0
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcessTest\obj\Debug\netcoreapp2.0\OoptiRH.DBAcessTest.dll
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcessTest\obj\Debug\netcoreapp2.0\OoptiRH.DBAcessTest.pdb
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcessTest\obj\Debug\netcoreapp2.0\OoptiRH.DBAcessTest.csprojResolveAssemblyReference.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcessTest\bin\Debug\netcoreapp2.0\OoptiRH.Common.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcessTest\bin\Debug\netcoreapp2.0\OoptiRH.DBAcess.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcessTest\bin\Debug\netcoreapp2.0\OoptiRH.DBAcess.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcessTest\bin\Debug\netcoreapp2.0\OoptiRH.Common.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcessTest\obj\Debug\netcoreapp2.0\OoptiRH.DBAcessTest.csproj.CopyComplete

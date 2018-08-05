@@ -7,4 +7,3 @@ C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Kernel\obj\Debug\netcoreapp2.0\Oopt
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Kernel\obj\Debug\netcoreapp2.0\OoptiRH.Kernel.AssemblyInfo.cs
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Kernel\obj\Debug\netcoreapp2.0\OoptiRH.Kernel.dll
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Kernel\obj\Debug\netcoreapp2.0\OoptiRH.Kernel.pdb
-C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Kernel\obj\Debug\netcoreapp2.0\OoptiRH.Kernel.csprojResolveAssemblyReference.cache

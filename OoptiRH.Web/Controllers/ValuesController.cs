@@ -12,7 +12,7 @@ using OoptiRH.Kernel.SettingModels;
 namespace OoptiRH.Web.Controllers
 {
     [Authorize]
-    
+
     [Route("api/[controller]")]
     public class ValuesController : OoptiRHController
     {
@@ -25,9 +25,7 @@ namespace OoptiRH.Web.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            throw new Exception();
-
-            return new string[] { "value1", "value2",  };
+            return new string[] { "value1", "value2", };
         }
 
         // GET api/values/5

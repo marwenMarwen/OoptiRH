@@ -5,11 +5,14 @@ using System.Threading.Tasks;
 using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using OoptiRH.API.APIInfrastructure;
+using OoptiRH.DBAcess.Implementations;
+using OoptiRH.DBAcess.Interfaces;
 using OoptiRH.Kernel.Logging;
 using OoptiRH.Kernel.Mapping;
 using OoptiRH.Kernel.SettingModels;
@@ -34,10 +37,16 @@ namespace OoptiRH.Web
 
             services.AddScoped<IlogRepository, LogRepository>();
             services.AddScoped<OoptiRHExceptionAttribute>();
+            services.AddScoped(typeof(IDBRepository<>), typeof(DBRepository<>));
 
             var MapperConfig = new MapperConfiguration(cfg => cfg.AddProfile(new OoptiRHMapperProfile()));
             var mapper = MapperConfig.CreateMapper();
             services.AddSingleton(mapper);
+
+            
+            services.AddDbContext<OoptiRHContext>(
+                options =>
+                options.UseSqlServer(Configuration["OoptiRHSetting:DBConnection"]));
 
             services.Configure<OoptiRHSettings>(Configuration.GetSection("OoptiRHSetting"));
             services.AddSwaggerGen(c =>

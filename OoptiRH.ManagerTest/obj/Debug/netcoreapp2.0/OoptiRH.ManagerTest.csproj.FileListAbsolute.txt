@@ -6,9 +6,9 @@ C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\bin\Debug\netcoreapp2.0
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\bin\Debug\netcoreapp2.0\OoptiRH.ManagerTest.runtimeconfig.dev.json
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\bin\Debug\netcoreapp2.0\OoptiRH.ManagerTest.dll
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\bin\Debug\netcoreapp2.0\OoptiRH.ManagerTest.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\obj\Debug\netcoreapp2.0\OoptiRH.ManagerTest.csprojResolveAssemblyReference.cache
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\obj\Debug\netcoreapp2.0\OoptiRH.ManagerTest.csproj.CoreCompileInputs.cache
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\obj\Debug\netcoreapp2.0\OoptiRH.ManagerTest.AssemblyInfoInputs.cache
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\obj\Debug\netcoreapp2.0\OoptiRH.ManagerTest.AssemblyInfo.cs
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\obj\Debug\netcoreapp2.0\OoptiRH.ManagerTest.dll
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\obj\Debug\netcoreapp2.0\OoptiRH.ManagerTest.pdb
-C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.ManagerTest\obj\Debug\netcoreapp2.0\OoptiRH.ManagerTest.csprojResolveAssemblyReference.cache

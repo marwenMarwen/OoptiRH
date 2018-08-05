@@ -1,9 +1,9 @@
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\bin\Debug\netcoreapp2.0\OoptiRH.External.deps.json
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\bin\Debug\netcoreapp2.0\OoptiRH.External.dll
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\bin\Debug\netcoreapp2.0\OoptiRH.External.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\obj\Debug\netcoreapp2.0\OoptiRH.External.csprojResolveAssemblyReference.cache
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\obj\Debug\netcoreapp2.0\OoptiRH.External.csproj.CoreCompileInputs.cache
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\obj\Debug\netcoreapp2.0\OoptiRH.External.AssemblyInfoInputs.cache
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\obj\Debug\netcoreapp2.0\OoptiRH.External.AssemblyInfo.cs
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\obj\Debug\netcoreapp2.0\OoptiRH.External.dll
 C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\obj\Debug\netcoreapp2.0\OoptiRH.External.pdb
-C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.External\obj\Debug\netcoreapp2.0\OoptiRH.External.csprojResolveAssemblyReference.cache
