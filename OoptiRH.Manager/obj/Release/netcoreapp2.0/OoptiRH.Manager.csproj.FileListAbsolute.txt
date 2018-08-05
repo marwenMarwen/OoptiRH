@@ -1,0 +1,17 @@
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\log4net.config
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\OoptiRH.Manager.deps.json
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\OoptiRH.Manager.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\OoptiRH.Manager.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\OoptiRH.Common.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\OoptiRH.DBAcess.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\OoptiRH.Kernel.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\OoptiRH.Common.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\OoptiRH.DBAcess.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\bin\Release\netcoreapp2.0\OoptiRH.Kernel.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\obj\Release\netcoreapp2.0\OoptiRH.Manager.csprojResolveAssemblyReference.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\obj\Release\netcoreapp2.0\OoptiRH.Manager.csproj.CoreCompileInputs.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\obj\Release\netcoreapp2.0\OoptiRH.Manager.AssemblyInfoInputs.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\obj\Release\netcoreapp2.0\OoptiRH.Manager.AssemblyInfo.cs
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\obj\Release\netcoreapp2.0\OoptiRH.Manager.csproj.CopyComplete
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\obj\Release\netcoreapp2.0\OoptiRH.Manager.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Manager\obj\Release\netcoreapp2.0\OoptiRH.Manager.pdb

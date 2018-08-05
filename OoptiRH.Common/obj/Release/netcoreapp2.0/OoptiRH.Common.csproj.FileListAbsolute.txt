@@ -1,0 +1,9 @@
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Common\bin\Release\netcoreapp2.0\OoptiRH.Common.deps.json
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Common\bin\Release\netcoreapp2.0\OoptiRH.Common.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Common\bin\Release\netcoreapp2.0\OoptiRH.Common.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Common\obj\Release\netcoreapp2.0\OoptiRH.Common.csprojResolveAssemblyReference.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Common\obj\Release\netcoreapp2.0\OoptiRH.Common.csproj.CoreCompileInputs.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Common\obj\Release\netcoreapp2.0\OoptiRH.Common.AssemblyInfoInputs.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Common\obj\Release\netcoreapp2.0\OoptiRH.Common.AssemblyInfo.cs
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Common\obj\Release\netcoreapp2.0\OoptiRH.Common.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.Common\obj\Release\netcoreapp2.0\OoptiRH.Common.pdb

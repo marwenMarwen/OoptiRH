@@ -1,0 +1,9 @@
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcess\bin\Release\netcoreapp2.0\OoptiRH.DBAcess.deps.json
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcess\bin\Release\netcoreapp2.0\OoptiRH.DBAcess.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcess\bin\Release\netcoreapp2.0\OoptiRH.DBAcess.pdb
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcess\obj\Release\netcoreapp2.0\OoptiRH.DBAcess.csprojResolveAssemblyReference.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcess\obj\Release\netcoreapp2.0\OoptiRH.DBAcess.csproj.CoreCompileInputs.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcess\obj\Release\netcoreapp2.0\OoptiRH.DBAcess.AssemblyInfoInputs.cache
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcess\obj\Release\netcoreapp2.0\OoptiRH.DBAcess.AssemblyInfo.cs
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcess\obj\Release\netcoreapp2.0\OoptiRH.DBAcess.dll
+C:\Users\Marwen\source\repos\OOPTIRH\OoptiRH.DBAcess\obj\Release\netcoreapp2.0\OoptiRH.DBAcess.pdb
