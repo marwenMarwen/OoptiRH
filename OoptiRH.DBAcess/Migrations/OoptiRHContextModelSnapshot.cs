@@ -33,7 +33,8 @@ namespace OoptiRH.DBAcess.Migrations
 
                     b.Property<string>("City");
 
-                    b.Property<string>("Country");
+                    b.Property<string>("Country")
+                        .IsRequired();
 
                     b.Property<DateTime>("CreationDate");
 
@@ -41,7 +42,8 @@ namespace OoptiRH.DBAcess.Migrations
 
                     b.Property<DateTime>("LastUpdateDate");
 
-                    b.Property<string>("PostalCode");
+                    b.Property<string>("PostalCode")
+                        .IsRequired();
 
                     b.HasKey("Id");
 

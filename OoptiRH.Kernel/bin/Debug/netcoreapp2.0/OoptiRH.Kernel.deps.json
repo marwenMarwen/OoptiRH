@@ -9,6 +9,7 @@
       "OoptiRH.Kernel/1.0.0": {
         "dependencies": {
           "AutoMapper": "7.0.1",
+          "OoptiRH.Common": "1.0.0",
           "log4net": "2.0.8"
         },
         "runtime": {
@@ -907,6 +908,11 @@
           "System.Threading": "4.0.11",
           "System.Xml.ReaderWriter": "4.0.11"
         }
+      },
+      "OoptiRH.Common/1.0.0": {
+        "runtime": {
+          "OoptiRH.Common.dll": {}
+        }
       }
     }
   },
@@ -1412,6 +1418,11 @@
       "sha512": "sha512-2eZu6IP+etFVBBFUFzw2w6J21DqIN5eL9Y8r8JfJWUmV28Z5P0SNU01oCisVHQgHsDhHPnmq2s1hJrJCFZWloQ==",
       "path": "system.xml.xmldocument/4.0.1",
       "hashPath": "system.xml.xmldocument.4.0.1.nupkg.sha512"
+    },
+    "OoptiRH.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

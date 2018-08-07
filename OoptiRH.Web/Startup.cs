@@ -16,6 +16,8 @@ using OoptiRH.DBAcess.Interfaces;
 using OoptiRH.Kernel.Logging;
 using OoptiRH.Kernel.Mapping;
 using OoptiRH.Kernel.SettingModels;
+using OoptiRH.Manager.Implementations;
+using OoptiRH.Manager.Interfaces;
 using Swashbuckle.AspNetCore.Swagger;
 
 namespace OoptiRH.Web
@@ -38,6 +40,8 @@ namespace OoptiRH.Web
             services.AddScoped<IlogRepository, LogRepository>();
             services.AddScoped<OoptiRHExceptionAttribute>();
             services.AddScoped(typeof(IDBRepository<>), typeof(DBRepository<>));
+            services.AddTransient<ICollaboratorManager, CollaboratorManager>();
+
 
             var MapperConfig = new MapperConfiguration(cfg => cfg.AddProfile(new OoptiRHMapperProfile()));
             var mapper = MapperConfig.CreateMapper();

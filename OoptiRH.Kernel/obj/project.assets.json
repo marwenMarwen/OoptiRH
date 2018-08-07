@@ -1507,6 +1507,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
+      },
+      "OoptiRH.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/OoptiRH.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OoptiRH.Common.dll": {}
+        }
       }
     }
   },
@@ -5262,12 +5272,18 @@
         "system.xml.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
+    },
+    "OoptiRH.Common/1.0.0": {
+      "type": "project",
+      "path": "../OoptiRH.Common/OoptiRH.Common.csproj",
+      "msbuildProject": "../OoptiRH.Common/OoptiRH.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "AutoMapper >= 7.0.1",
       "Microsoft.NETCore.App >= 2.0.0",
+      "OoptiRH.Common >= 1.0.0",
       "log4net >= 2.0.8"
     ]
   },
@@ -5303,7 +5319,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Marwen\\source\\repos\\OOPTIRH\\OoptiRH.Common\\OoptiRH.Common.csproj": {
+              "projectPath": "C:\\Users\\Marwen\\source\\repos\\OOPTIRH\\OoptiRH.Common\\OoptiRH.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

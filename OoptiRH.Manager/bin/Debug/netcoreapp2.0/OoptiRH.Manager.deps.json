@@ -1840,6 +1840,7 @@
       "OoptiRH.Kernel/1.0.0": {
         "dependencies": {
           "AutoMapper": "7.0.1",
+          "OoptiRH.Common": "1.0.0",
           "log4net": "2.0.8"
         },
         "runtime": {

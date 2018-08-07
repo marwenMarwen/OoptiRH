@@ -13,7 +13,9 @@ namespace OoptiRH.Common.Entities
         [Required]
         public String LastName { get; set; }
         public Gender Gender { get; set; }
+        [Required]
         public DateTime BirthDate { get; set; }
+        [Required]
         public DateTime HireDate { get; set; }
 
         public int AdresseId { get; set; }

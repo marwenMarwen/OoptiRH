@@ -76,7 +76,7 @@ namespace OoptiRH.DBAcessTest
                 jobRepository.Update(selectedJob);
             }
 
-            
+            //Assert
             using (var context = new OoptiRHContext(options))
             {
                 IDBRepository<Job> jobRepository = new DBRepository<Job>(context);               

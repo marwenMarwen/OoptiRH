@@ -8,9 +8,17 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.6.0" />
+    <PackageReference Include="Moq" Version="4.9.0" />
     <PackageReference Include="xunit" Version="2.3.1" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
     <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OoptiRH.Common\OoptiRH.Common.csproj" />
+    <ProjectReference Include="..\OoptiRH.DBAcess\OoptiRH.DBAcess.csproj" />
+    <ProjectReference Include="..\OoptiRH.Kernel\OoptiRH.Kernel.csproj" />
+    <ProjectReference Include="..\OoptiRH.Manager\OoptiRH.Manager.csproj" />
   </ItemGroup>
 
 </Project>
