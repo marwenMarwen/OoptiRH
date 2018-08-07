@@ -41,6 +41,7 @@ namespace OoptiRH.Web
             services.AddScoped<OoptiRHExceptionAttribute>();
             services.AddScoped(typeof(IDBRepository<>), typeof(DBRepository<>));
             services.AddTransient<ICollaboratorManager, CollaboratorManager>();
+            services.AddTransient<IJobManager, JobManager>();
 
 
             var MapperConfig = new MapperConfiguration(cfg => cfg.AddProfile(new OoptiRHMapperProfile()));

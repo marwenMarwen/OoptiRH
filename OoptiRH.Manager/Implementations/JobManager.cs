@@ -23,6 +23,7 @@ namespace OoptiRH.Manager.Implementations
 
         public void Add(JobDto job)
         {
+            job.Guid = Guid.NewGuid();
             this._jobRepository.Insert(
                 this._ooptiRHMapper.Map<Job>(job)
                 );
@@ -52,6 +53,8 @@ namespace OoptiRH.Manager.Implementations
             selectedJob.title = job.title;
             selectedJob.Description = job.Description;
             selectedJob.LastUpdateDate = DateTime.Now;
+
+            this._jobRepository.Update(selectedJob);
         }
     }
 }
